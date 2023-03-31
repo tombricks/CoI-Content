@@ -1,0 +1,28 @@
+{
+    "RUS_Reform_USSR_event": {
+        "options": [
+            {
+                "title": "RUS_Reformed_USSR.1",
+                "effects": [
+                    {
+                        "type": "set_color",
+                        "color": "#CC0000"
+                    },
+                    {
+                        "type": "remove_decision",
+                        "decision": "RUS_Reform_USSR"
+                    }
+                ]
+            },
+            {
+                "title": "RUS_Reformed_USSR.2",
+                "effects": [
+                    {
+                        "type": "clear_decision_timeout",
+                        "decision": "RUS_Reform_USSR"
+                    }
+                ]
+            }
+        ]
+    }
+}

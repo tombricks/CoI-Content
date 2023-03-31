@@ -1,0 +1,10 @@
+1:799,0
+2:855,419
+3:569,590
+united kingdom:136,300
+france:181,389
+russia:986,223
+ukraine:454,360
+belarus:417,306
+saudi arabia:616,661
+china:1194,513
